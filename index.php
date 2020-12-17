@@ -98,7 +98,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM log ORDER BY id_log DESC");
             <div class="mb-4">
                 <h4>
                     <i class="icon-contact_phone"></i>
-                    Guest Book
+                    Log Book
                 </h4>
             </div>
         </div>
